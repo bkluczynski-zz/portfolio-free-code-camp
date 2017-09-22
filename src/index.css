@@ -13,3 +13,24 @@ body {
 .item {
   background: white !important;
 }
+
+.intro {
+  font-size: 40px;
+  font-family: sans-serif;
+  text-align: left;
+  display: inline-block;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#container {
+height: 100vh;
+}
+#div2 {
+height: 85% !important;
+border: 1px solid #000000;
+}
+#div1 {
+height: 15% !important;
+}
